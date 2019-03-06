@@ -1,4 +1,4 @@
-This repository contains a customized alpine linux based Docker image, containing basic programs.
+This repository contains a customized alpine linux based Docker image, containing some basic programs.
 
 ## felipefoliatti/mysqlc-curl
 
